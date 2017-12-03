@@ -189,7 +189,7 @@ class CSVDataCheck {
 		}
 		else{
 			System.out.println("You forgot the filename or max confidence arg.");
-			System.out.println("Correct format: java CVStoText filename.csv max_confidence");
+			System.out.println("Correct format: java CSVDataCheck filename.csv num_conf_bubbles");
 		}
 	}
 
